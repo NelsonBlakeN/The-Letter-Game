@@ -1,0 +1,25 @@
+Blake
+blake.jpg
+6 5 4 3
+9 8 7 6
+10 8 6 3
+Keith
+Keith.jpg
+4 3 2 1
+12 8 7 6 5
+4 3 2 1 0
+David
+david.jpg
+5 4 3 2
+5 5 5 5
+9 9 9 9 1
+Marissa
+pepe.
+1 1 0 0 0 0
+0
+
+0
+0
+
+
+
