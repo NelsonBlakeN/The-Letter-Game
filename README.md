@@ -1,13 +1,14 @@
 # The-Letter-Game
 CSCE 121 2016 Team Project
 
-Project description:
+### Project description:
 
 CSCE 121-200: Project - WordSearch
 Fall 2016
 
 This is a rather open-ended project, to allow opportunities for your creativity. Each team is to write a C++ program using the textbook's graphics library that presents a graphical user interface (GUI) for playing a word search game. All user interactions with the program are to be via your GUI.
-Minimum Specifications for WordSearch:
+
+### Minimum Specifications for WordSearch:
 
 When the user first starts, s/he enters his/her name into a textbox.
 Have a grid of buttons, whose size is chosen by the user to be either 3x3, 4x4 or 5x5. Randomly label the buttons with letters from A to Z (duplications allowed).
